@@ -19,6 +19,7 @@ possession_by_frame.pkl
 # ground truth, so the folder ships empty and stays that way.
 evaluation/results/*.csv
 submission_artifacts/*.csv
+figures/*.csv
 
 # ...with one deliberate exception. The baselines are computed from the ATD alone -- the same ATD
 # every enrolled participant has -- and never read a ground truth of any kind, so they carry no
